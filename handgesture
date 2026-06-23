@@ -1,0 +1,47 @@
+# IoT-Based Hand Gesture Recognition and Control System Using ESP32
+
+## Overview
+
+This project enables wireless control of electrical devices using hand gestures. An ESP32 microcontroller processes sensor data and communicates with connected devices through IoT technology, allowing real-time monitoring and control.
+
+## Features
+
+* Hand gesture recognition for device control
+* Wireless communication using ESP32
+* Real-time monitoring and automation
+* Low-cost and user-friendly implementation
+* IoT-based remote accessibility
+
+## Components Used
+
+* ESP32 Development Board
+* MPU6050 Accelerometer and Gyroscope Sensor
+* Relay Module
+* LEDs / Electrical Loads
+* Jumper Wires
+* Breadboard
+* Power Supply
+
+## Working Principle
+
+1. The MPU6050 sensor detects hand movements and gestures.
+2. Sensor data is processed by the ESP32.
+3. Specific gestures are mapped to control commands.
+4. Commands are sent to connected devices through relay modules.
+5. Devices are turned ON/OFF based on recognized gestures.
+
+## Applications
+
+* Home Automation
+* Smart Device Control
+* Assistive Technology
+* IoT-based Automation Systems
+
+## Technologies Used
+
+* Embedded C
+* ESP32
+* IoT
+* Sensor Interfacing
+* Wireless Communication
+ 
